@@ -1,0 +1,28 @@
+{
+  "name": "nREPL",
+  "version": "0.1.0",
+  "description": "a nodeJS 0.10 compatible REPL server/client. simple, but includes autoComplete and colors.",
+  "main": "lib/nREPL.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itsatony/nREPL"
+  },
+  "keywords": [
+		"0.10",
+    "repl",
+    "socket",
+    "server",
+    "client"
+  ],
+  "author": "Toni Wagner <i@itsatony.com>",
+  "license": "MIT",
+  "devDependencies": {
+  },
+  "bin": { "nrepl": "./bin/repl.js" }
+}
