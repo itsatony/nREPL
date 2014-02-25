@@ -1,6 +1,6 @@
 {
   "name": "nrepl",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "a nodeJS 0.10 compatible REPL server/client. simple, but includes autoComplete and colors.",
   "main": "lib/nrepl.js",
   "engines": {
